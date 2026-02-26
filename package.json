@@ -13,8 +13,8 @@
 	],
 	"scripts": {
 		"build": "tsc",
-		"lint": "eslint \"src/**/*.ts\"",
-		"test": "echo \"No tests specified\" && exit 0"
+		"watch": "tsc -watch -p ./",
+		"lint": "eslint \"src/**/*.ts\""
 	},
 	"keywords": [
 		"xml",
