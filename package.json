@@ -22,9 +22,5 @@
 		"typescript"
 	],
 	"author": "Adrian Stephens",
-	"license": "MIT",
-	"devDependencies": {
-		"eslint": "^9.21.0",
-		"typescript-eslint": "^8.26.0"
-	}
+	"license": "MIT"
 }
